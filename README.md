@@ -4,6 +4,8 @@ BitCapsule is a modern desktop application that allows you to create time-locked
 
 [⬇️ Download BitCapsule v1.0 (.exe)](https://github.com/Vikkingg13/BitCapsule/releases/download/1.0/BitCapsule.exe)
 
+[Инструкция на русском ](https://github.com/Vikkingg13/BitCapsule/blob/main/Instruction_RU.md)
+
 ## Features
 - 🔒 Create time-locked Bitcoin addresses using P2SH scripts
 - 📅 User-friendly calendar interface for selecting unlock dates
